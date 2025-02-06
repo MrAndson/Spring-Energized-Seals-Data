@@ -4,7 +4,9 @@
 当前尚未完成全部内容，库内容暂不公开。
 将包括：
 1. 典型弹簧蓄能密封的Abaqus有限元建模模板（.cae文件）
-2. 材料力学数据清洗，处理和绘制代码（Python）
+2. 材料力学数据清洗，处理和绘制代码（Python）【对应tset.py和normalization.py】
+3. 单参数拟合【对应OneDataFitting.py】
+4. groupFitting 程序
 
 
 
